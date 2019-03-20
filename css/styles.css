@@ -1,0 +1,209 @@
+.initial-section {
+  text-align: center;
+}
+
+.initial-heading {
+  text-align: center;
+  margin: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: black;
+  transition: all 0.5s ease-in-out;
+}
+
+.initial-heading:hover {
+  transform: scale(1.5);
+  transition: all 0.5s ease-in-out;
+}
+
+.our-meet {
+  color: #000;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+
+
+.intro {
+  background-color: #9c297f;
+  border: none;
+  border-radius: 25px;
+}
+
+.parallex {
+  background-image: url("../images/SpecialPic.gif");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 150%;
+  border: 2px solid #9c297f;
+  border-radius: 25px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  color: #000;
+  padding: 2% 3%;
+}
+
+.our-meet-pic {
+  border-radius: 100%;
+  width: 20%;
+  margin: 3% 0;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #000;
+    overflow: visible;
+    text-align: center;
+    width: 40%;
+}
+
+hr:after {
+    background: none;
+    content: '💓';
+    padding: 0 10px;
+    position: relative;
+    top: -13px;
+}
+
+.my-video {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  border: none;
+  border-radius: 25px 25px 0 0;
+}
+
+.my-first-video {
+  border: none;
+  border-radius: 20px;
+}
+
+.navbar-brand:hover {
+  transform: scale(1.2) rotate(-10deg);
+  transition: all 0.5s ease-in-out;
+}
+
+.navbar-brand {
+  transition: all 0.5s ease-in-out;
+  color: #fff;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.video-description {
+  background: #000000;
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  border-radius: 0 0 25px 25px;
+}
+
+.video-description-para {
+  color: #fff;
+  padding: 2%;
+}
+
+.ritika {
+  color: #f67280;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+}
+
+a {
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+}
+
+.heart-icon {
+  padding: 50% 0;
+  transform: scale(2);
+  color: #9c297f;
+}
+
+.image-love {
+  border-radius: 100%;
+}
+
+.our-outing-pic {
+  width: 30%;
+  margin: 3% 0 0;
+}
+
+.our-alcohol-pic {
+  border-radius: 100%;
+  width: 30%;
+  margin: 3% 0;
+}
+
+.our-outing-image {
+  display: block;
+  width: 20%;
+  border-radius: 100%;
+  margin-bottom: 4%;
+}
+
+.cara {
+  background-color: #9c297f;
+  padding: 3% 0 1%;
+  border-radius: 25px;
+}
+
+.cara-image {
+  border-radius: 100%;
+}
+
+.cara-description {
+  color: #fff;
+  text-align: center;
+  padding: 2% 0 0;
+}
+
+.cara-background {
+  margin-top: 2%;
+  background: #000000;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  width: 30%;
+}
+
+.special-moments {
+  margin: 3% 0 0;
+}
+
+.h1-font {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.to-class {
+  font-size: 60px;
+}
+
+.last-info {
+  font-family: 'Josefin Sans', sans-serif;
+  padding-bottom: 2%;
+  color: #fff;
+}
+
+.image-bottom {
+  border-radius: 100%;
+}
+
+/* .nav-link:hover {
+  transform: scale(1.2) rotate(15deg);
+  transition: all 1s ease-in-out;
+}
+
+.nav-link {
+  transition: all 1s ease-in-out;
+} */
